@@ -1,5 +1,13 @@
 Hi there, 
+<<<<<<< HEAD
 
 this is a tech hub.
 
 -- by Alice
+=======
+this 
+is
+a tech hub.
+
+-- by Bob
+>>>>>>> e938bf3 (Bob)
